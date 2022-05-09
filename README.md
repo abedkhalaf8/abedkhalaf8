@@ -1,7 +1,3 @@
-### Hi there 👋
-
-##### BIO
-
 - 🔭 I'm currently a student at **AppleSeeds Bootcamp**
 - 🌱 I’m currently learning `.js`
 - ⚙️ I use daily: `.js`, `html`, `.css`
